@@ -14,7 +14,6 @@ In the first line of the program, define a variable called userName that is set 
 If the user wants, he or she can enter his or her name in between the quotation marks.
 
 - Step 2.
-- 
 Below this variable, create a ternary expression that decides what to do if the user enters a name or not. If the user enters a name — like 'Jane' — use string interpolation to log Hello, Jane! to the console. Otherwise, simply log Hello!.
 
 - Step 3.
